@@ -102,6 +102,7 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ```
 ### Output:
+<img width="815" height="450" alt="image" src="https://github.com/user-attachments/assets/f758c701-1007-470f-b096-b3bd81fb7df0" />
 
 ### Visualization:
 ```python
@@ -130,6 +131,8 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
-
+<img width="1061" height="629" alt="image" src="https://github.com/user-attachments/assets/dc32b220-1556-4d0e-ba5f-3d37c21cde4c" />
+<img width="1067" height="667" alt="image" src="https://github.com/user-attachments/assets/3250e900-510a-438f-9b28-ea768ad38645" />
 
 ### Result:
+The GSP algorithm was successfully implemented in Python. Frequent sequential patterns were discovered for different categories (Top Wear, Bottom Wear, and Party Wear) based on a minimum support threshold. The results were also visualized using line plots for better understanding.
